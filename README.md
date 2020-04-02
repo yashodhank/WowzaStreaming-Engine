@@ -1,6 +1,6 @@
 # WowzaStreaming-Engine
-WowzaStreamingEngine-4.7.7 Perpetual License Crack build 18935 working on both Windows and Linux Version !!!!
-How to install Wowza Streaming Engine 4.7.7
+WowzaStreamingEngine-4.7.8 Perpetual License Crack build 18935 working on both Windows and Linux Version !!!!
+How to install Wowza Streaming Engine 4.7.8
 
 Do step by step as below:
 1/ Download the installer for Windows ,from Wowza link:
@@ -9,6 +9,53 @@ Do step by step as below:
 4/ Download the attachment file, “wms-server.jar”
 5/ Replace it with original file at: “C:\Program Files (x86)\Wowza Media Systems\Wowza Streaming Engine 4.7.7\lib“
 6/ Start Wowza Stream Engine
+
+
+
+
+Download and install the Wowza 4.7.8 installer from wowza.com, for example in Linux:
+cd /tmp
+wget https://www.wowza.com/downloads/WowzaStreamingEngine-4-7-8/WowzaStreamingEngine-4.7.8-linux-x64-installer.run
+chmod +x WowzaStreamingEngine-4.7.8-linux-x64-installer.run
+./WowzaStreamingEngine-4.7.8-linux-x64-installer.run
+
+Use this serial when asked:
+ET1A4-KxrGd-Eaj9T-dTbcf-rZNza-9xaJd
+
+Stop the Wowza server:
+service WowzaStreamingEngineManager stop
+service WowzaStreamingEngine stop
+
+Unzip the downloaded patched file and copy the file "wms-server.jar" to:
+/usr/local/WowzaStreamingEngine-4.7.8/lib
+
+Start the server:
+service WowzaStreamingEngineManager start
+service WowzaStreamingEngine start
+
+Update:
+Code:
+
+Stop the Wowza server:
+service WowzaStreamingEngineManager stop
+service WowzaStreamingEngine stop
+
+Unzip the downloaded patched file and run:
+mkdir /usr/local/WowzaStreamingEngine/updates/WowzaStreamingEngine-Update-4.7.8
+mv WowzaStreamingEngine-Update-4.7.8.zip /usr/local/WowzaStreamingEngine/updates/WowzaStreamingEngine-Update-4.7.8
+cd /usr/local/WowzaStreamingEngine/updates/WowzaStreamingEngine-Update-4.7.8
+unzip WowzaStreamingEngine-Update-4.7.8.zip
+cd linux
+chmod +x update.sh
+./update.sh
+
+Copy the file "wms-server.jar" from the patch to:
+/usr/local/WowzaStreamingEngine-4.7.8/lib
+
+Start the server:
+service WowzaStreamingEngineManager start
+service WowzaStreamingEngine start
+
 
  
  Features:
