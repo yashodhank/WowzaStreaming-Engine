@@ -75,6 +75,6 @@ service WowzaStreamingEngine start
 
 also linux verison avaible 
 
-ping on skype - kaul.tvthe 
+ping on skype - kaul.thetv
 
-cost you 50 euro with installation help
+cost you 250 euro with installation help
