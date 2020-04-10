@@ -1,4 +1,7 @@
 # WowzaStreaming-Engine
+Wowza Streaming Engine 4.8.0 Crack
+Wowza Streaming Engine 4.7.7 Crack
+
 WowzaStreamingEngine-4.7.8 Perpetual License Crack build 18935 working on both Windows and Linux Version !!!!
 How to install Wowza Streaming Engine 4.7.8
 
@@ -77,4 +80,4 @@ also linux verison avaible
 
 ping on skype - kaul.thetv
 
-cost you 250 euro with installation help
+cost you *50 euro with installation help
