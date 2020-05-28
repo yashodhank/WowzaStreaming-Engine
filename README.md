@@ -80,4 +80,4 @@ also linux verison avaible
 
 ping on skype - kaul.thetv
 
-cost you *50 euro with installation help
+cost you 100 euro with installation help
